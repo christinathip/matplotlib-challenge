@@ -1,0 +1,6 @@
+3 Observations about the Results of the Study:
+	According to Metastatic.png, Ramicane showed the least Metastatic spread while Ketapril showed the most. 
+
+	According to Response.png, Capomulin and Ramicane helped decrease the size of the Tumor Volume (mm3) over the duration of treatment.
+
+	According to Survival.png, the survival rate of Capomulin and Ramicane on the mice were the highest among the others.
